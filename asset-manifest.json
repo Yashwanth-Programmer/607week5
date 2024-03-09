@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Yashwanth-Programmer/607week5.git/static/css/main.ffd9980b.css",
+    "main.js": "/Yashwanth-Programmer/607week5.git/static/js/main.a0abc9cd.js",
+    "static/js/453.72ef9225.chunk.js": "/Yashwanth-Programmer/607week5.git/static/js/453.72ef9225.chunk.js",
+    "static/media/employee.jpg": "/Yashwanth-Programmer/607week5.git/static/media/employee.836e6bebe3c75fd2ab7e.jpg",
+    "static/media/student.png": "/Yashwanth-Programmer/607week5.git/static/media/student.6253aff79e78ec4ce604.png",
+    "index.html": "/Yashwanth-Programmer/607week5.git/index.html",
+    "main.ffd9980b.css.map": "/Yashwanth-Programmer/607week5.git/static/css/main.ffd9980b.css.map",
+    "main.a0abc9cd.js.map": "/Yashwanth-Programmer/607week5.git/static/js/main.a0abc9cd.js.map",
+    "453.72ef9225.chunk.js.map": "/Yashwanth-Programmer/607week5.git/static/js/453.72ef9225.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffd9980b.css",
+    "static/js/main.a0abc9cd.js"
+  ]
+}
